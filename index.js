@@ -53,6 +53,7 @@ class Person {
        this.stomach.push(someFood)
      }
    };
+   
    poop(){
      this.stomach = [];
    };
